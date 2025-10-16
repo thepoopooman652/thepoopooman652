@@ -24,3 +24,4 @@ Feel free to reach out if you want to connect or work together!
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 Thanks for visiting my profile!
+(yes this readme is ai generated, no i dont care that its kinda ass)
