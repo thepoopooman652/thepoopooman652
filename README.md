@@ -8,8 +8,7 @@ I'm a high school student passionate about web development and scripting. I love
 ## 🚀 What I Do
 - Create websites, apps, and scripts for fun and learning
 - Tinker with new technologies and frameworks
-- Collaborate on open-source projects
-
+  
 ## 📫 Contact Me
 Feel free to reach out if you want to connect or work together!
 - **Email:** thepoopooman69@proton.me
