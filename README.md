@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm thepoopooman652 👋
 
-<!--
-**thepoopooman652/thepoopooman652** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student passionate about web development and scripting. I love building cool things with:
 
-Here are some ideas to get you started:
+- **HTML, CSS, JavaScript** (my favorites!)
+- **PHP, Bash, Python** (I can get things done with these too!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Create websites, apps, and scripts for fun and learning
+- Tinker with new technologies and frameworks
+- Collaborate on open-source projects
+
+## 📫 Contact Me
+Feel free to reach out if you want to connect or work together!
+- **Email:** thepoopooman69@proton.me
+
+## 🌱 Currently Learning
+- More advanced JavaScript & frameworks
+- Automation with Bash and Python
+- Back-end basics with PHP
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+Thanks for visiting my profile!
