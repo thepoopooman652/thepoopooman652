@@ -1,4 +1,4 @@
-# Hi, I'm thepoopooman652 👋
+# Hi, I'm ProishTheIdiot👋
 
 I'm a high school student passionate about web development and scripting. I love building cool things with:
 
